@@ -1,0 +1,11 @@
+body{
+    background:blue;
+}
+.login{
+    width: 40%;
+    height: 200px;
+    background: #ccc;
+    margin: 0 auto;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}
